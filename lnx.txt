@@ -1,0 +1,23 @@
+mkdir hello
+  cd hello 
+      mkdir five one
+          cd five
+            mkdir six
+                cd six
+                cat > c.txt
+                mkdir seven
+                    cd seven
+                    cat > error.log
+cd one
+  cat > a.txt
+  cat > b.txt
+  mkdir two
+      cd two
+      cat > d.txt
+      mkdir three
+          cd three
+            cat > e.txt
+            mkdir four
+                cd four
+                cat > access.lof
+        
